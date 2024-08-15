@@ -15,3 +15,10 @@ Before using the software, you'll need to install the required Python packages. 
 ```bash
 pip install -r requirements.txt
 ```
+
+## Usage
+
+
+```bash
+python app.py
+```
